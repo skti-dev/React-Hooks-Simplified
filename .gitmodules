@@ -1,0 +1,9 @@
+[submodule "lesser-used-hooks"]
+	path = lesser-used-hooks
+	url = https://github.com/skti-dev/lesser-used-hooks.git
+[submodule "must-know-hooks"]
+	path = must-know-hooks
+	url = https://github.com/skti-dev/must-know-hooks.git
+[submodule "optional-hooks"]
+	path = optional-hooks
+	url = https://github.com/skti-dev/optional-hooks.git
