@@ -7,3 +7,6 @@
 [submodule "optional-hooks"]
 	path = optional-hooks
 	url = https://github.com/skti-dev/optional-hooks.git
+[submodule "custom-hooks"]
+	path = custom-hooks
+	url = https://github.com/skti-dev/custom-hooks.git
